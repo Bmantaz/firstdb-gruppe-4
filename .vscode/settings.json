@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": true
+                }
+            },
+            "previewLimit": 50,
+            "server": "ep-proud-mode-a9nlnszv-pooler.gwc.azure.neon.tech",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "H1 - 2025",
+            "database": "DBOpgave",
+            "username": "DBOpgave_owner",
+            "password": "npg_lFuxD0jP6sYZ"
+        }
+    ]
+}
